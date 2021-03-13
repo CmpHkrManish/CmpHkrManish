@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CmpHkrManish
+- 👋 Hi, I’m Manish Kumar.
 - 👀 I’m interested in Data Science Projects.
 - 🌱 I’m currently learning Statistics.
 - 💞️ I’m looking to collaborate on Data science projects.
